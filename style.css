@@ -85,3 +85,8 @@ body{
     }
     
 }
+@media screen and (max-width: 420px){
+    .container{
+        width: 380px;
+    }
+}
