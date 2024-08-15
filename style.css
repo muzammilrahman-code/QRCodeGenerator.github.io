@@ -64,9 +64,6 @@ body{
     margin: 10px auto;
     border: 1px solid rgb(155, 10, 10);
 }
-#imageBox.remove-img{
-    display: none;   
-}
 .error{
     animation: shake 0.1s linear 10;
 }
